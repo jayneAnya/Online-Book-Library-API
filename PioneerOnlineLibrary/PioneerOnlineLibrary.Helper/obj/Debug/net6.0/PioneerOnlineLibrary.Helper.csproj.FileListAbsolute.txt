@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Helper\bin\Debug\net6.0\PioneerOnlineLibrary.Helper.deps.json
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Helper\bin\Debug\net6.0\PioneerOnlineLibrary.Helper.dll
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Helper\bin\Debug\net6.0\PioneerOnlineLibrary.Helper.pdb
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Helper\obj\Debug\net6.0\PioneerOnlineLibrary.Helper.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Helper\obj\Debug\net6.0\PioneerOnlineLibrary.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Helper\obj\Debug\net6.0\PioneerOnlineLibrary.Helper.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Helper\obj\Debug\net6.0\PioneerOnlineLibrary.Helper.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Helper\obj\Debug\net6.0\PioneerOnlineLibrary.Helper.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Helper\obj\Debug\net6.0\PioneerOnlineLibrary.Helper.dll
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Helper\obj\Debug\net6.0\refint\PioneerOnlineLibrary.Helper.dll
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Helper\obj\Debug\net6.0\PioneerOnlineLibrary.Helper.pdb
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Helper\obj\Debug\net6.0\ref\PioneerOnlineLibrary.Helper.dll

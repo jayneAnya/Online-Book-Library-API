@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PioneerOnlineLibrary.API", "PioneerOnlineLibrary.API\PioneerOnlineLibrary.API.csproj", "{F90FACDD-D9EC-4AE7-914F-2DB6FA7A8DB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PioneerOnlineLibrary.Domain", "PioneerOnlineLibrary.Domain\PioneerOnlineLibrary.Domain.csproj", "{15976012-F9B0-4ACC-B4F7-0D835519661A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PioneerOnlineLibrary.Infrastructure", "PioneerOnlineLibrary.Infrastructure\PioneerOnlineLibrary.Infrastructure.csproj", "{A9E9C4EF-F56D-4B7E-AEE4-6311AA67EC9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PioneerOnlineLibrary.Core", "PioneerOnlineLibrary.Core\PioneerOnlineLibrary.Core.csproj", "{8D8226D6-7FA0-4A10-A93D-247375604DC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PioneerOnlineLibrary.Helper", "PioneerOnlineLibrary.Helper\PioneerOnlineLibrary.Helper.csproj", "{65DEE08E-CC28-4B5A-9109-151D20CEB08E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F90FACDD-D9EC-4AE7-914F-2DB6FA7A8DB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F90FACDD-D9EC-4AE7-914F-2DB6FA7A8DB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F90FACDD-D9EC-4AE7-914F-2DB6FA7A8DB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F90FACDD-D9EC-4AE7-914F-2DB6FA7A8DB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15976012-F9B0-4ACC-B4F7-0D835519661A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15976012-F9B0-4ACC-B4F7-0D835519661A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15976012-F9B0-4ACC-B4F7-0D835519661A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15976012-F9B0-4ACC-B4F7-0D835519661A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9E9C4EF-F56D-4B7E-AEE4-6311AA67EC9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E9C4EF-F56D-4B7E-AEE4-6311AA67EC9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E9C4EF-F56D-4B7E-AEE4-6311AA67EC9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E9C4EF-F56D-4B7E-AEE4-6311AA67EC9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D8226D6-7FA0-4A10-A93D-247375604DC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D8226D6-7FA0-4A10-A93D-247375604DC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D8226D6-7FA0-4A10-A93D-247375604DC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D8226D6-7FA0-4A10-A93D-247375604DC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65DEE08E-CC28-4B5A-9109-151D20CEB08E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65DEE08E-CC28-4B5A-9109-151D20CEB08E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65DEE08E-CC28-4B5A-9109-151D20CEB08E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65DEE08E-CC28-4B5A-9109-151D20CEB08E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5E500C3-6DDF-41B8-B527-0FC375AF5F36}
+	EndGlobalSection
+EndGlobal

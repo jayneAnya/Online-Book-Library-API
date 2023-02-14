@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Infrastructure\bin\Debug\net6.0\PioneerOnlineLibrary.Infrastructure.deps.json
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Infrastructure\bin\Debug\net6.0\PioneerOnlineLibrary.Infrastructure.runtimeconfig.json
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Infrastructure\bin\Debug\net6.0\PioneerOnlineLibrary.Infrastructure.dll
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Infrastructure\bin\Debug\net6.0\PioneerOnlineLibrary.Infrastructure.pdb
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Infrastructure\bin\Debug\net6.0\PioneerOnlineLibrary.Domain.dll
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Infrastructure\bin\Debug\net6.0\PioneerOnlineLibrary.Domain.pdb
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Infrastructure\obj\Debug\net6.0\PioneerOnlineLibrary.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Infrastructure\obj\Debug\net6.0\PioneerOnlineLibrary.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Infrastructure\obj\Debug\net6.0\PioneerOnlineLibrary.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Infrastructure\obj\Debug\net6.0\PioneerOnlineLibrary.Infrastructure.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Infrastructure\obj\Debug\net6.0\PioneerOnlineLibrary.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Infrastructure\obj\Debug\net6.0\PioneerOnlineLibrary.Infrastructure.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Infrastructure\obj\Debug\net6.0\PioneerOnlineLibrary.Infrastructure.dll
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Infrastructure\obj\Debug\net6.0\refint\PioneerOnlineLibrary.Infrastructure.dll
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Infrastructure\obj\Debug\net6.0\PioneerOnlineLibrary.Infrastructure.pdb
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Infrastructure\obj\Debug\net6.0\PioneerOnlineLibrary.Infrastructure.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Infrastructure\obj\Debug\net6.0\ref\PioneerOnlineLibrary.Infrastructure.dll

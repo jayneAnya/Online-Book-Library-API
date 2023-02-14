@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Core\bin\Debug\net6.0\PioneerOnlineLibrary.Core.deps.json
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Core\bin\Debug\net6.0\PioneerOnlineLibrary.Core.dll
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Core\bin\Debug\net6.0\PioneerOnlineLibrary.Core.pdb
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Core\bin\Debug\net6.0\PioneerOnlineLibrary.Domain.dll
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Core\bin\Debug\net6.0\PioneerOnlineLibrary.Infrastructure.dll
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Core\bin\Debug\net6.0\PioneerOnlineLibrary.Infrastructure.pdb
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Core\bin\Debug\net6.0\PioneerOnlineLibrary.Domain.pdb
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Core\obj\Debug\net6.0\PioneerOnlineLibrary.Core.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Core\obj\Debug\net6.0\PioneerOnlineLibrary.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Core\obj\Debug\net6.0\PioneerOnlineLibrary.Core.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Core\obj\Debug\net6.0\PioneerOnlineLibrary.Core.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Core\obj\Debug\net6.0\PioneerOnlineLibrary.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Core\obj\Debug\net6.0\PioneerOnlineLibrary.Core.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Core\obj\Debug\net6.0\PioneerOnlineLibrary.Core.dll
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Core\obj\Debug\net6.0\refint\PioneerOnlineLibrary.Core.dll
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Core\obj\Debug\net6.0\PioneerOnlineLibrary.Core.pdb
+C:\Users\Administrator\Desktop\Code Along\PioneerOnlineLibrary\PioneerOnlineLibrary.Core\obj\Debug\net6.0\ref\PioneerOnlineLibrary.Core.dll
